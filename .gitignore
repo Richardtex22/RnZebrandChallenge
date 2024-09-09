@@ -65,6 +65,8 @@ yarn-error.log
 # testing
 /coverage
 
+.vscode/settings.json
+
 # Yarn
 .yarn/*
 !.yarn/patches
